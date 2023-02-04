@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Voice GPT</string>
+    <string name="start_recording_text">R</string>
+    <string name="loading_result_text">Loading Result</string>
+    <string name="error_text">Error</string>
+    <string name="back_to_main_activity_button_text">Back</string>
+
+    <!-- URLS -->
+    <string name="backend_base">http://10.10.10.6:3001/</string>
+<!--    <string name="backend_base">https://oren.requestcatcher.com/</string>-->
+    <string name="query_gpt_endpoint">open-ai/queryGPT/</string>
+</resources>
